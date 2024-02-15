@@ -1,0 +1,11 @@
+#pragma once
+
+#define TAPPING_TERM 200
+#define TAPPING_TERM_PER_KEY
+
+#define PERMISSIVE_HOLD
+
+#define RETRO_TAPPING
+#define RETRO_TAPPING_PER_KEY
+
+#define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
